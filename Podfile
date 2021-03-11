@@ -5,6 +5,7 @@ target 'parstagram-ios' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   pod 'Parse'
+  pod 'AlamofireImage', '~> 4.1'
 
   # Pods for parstagram-ios
 
