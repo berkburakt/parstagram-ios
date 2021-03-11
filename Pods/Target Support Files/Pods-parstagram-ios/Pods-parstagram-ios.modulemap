@@ -1,0 +1,6 @@
+framework module Pods_parstagram_ios {
+  umbrella header "Pods-parstagram-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
