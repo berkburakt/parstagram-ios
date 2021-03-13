@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="demo1.gif" width="376" height="792"/>
+<img src="demo.gif" width="376" height="792"/>
