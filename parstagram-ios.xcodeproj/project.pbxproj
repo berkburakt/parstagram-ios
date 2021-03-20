@@ -16,6 +16,7 @@
 		B782915425FA08CD009F4A11 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B782915225FA08CD009F4A11 /* LaunchScreen.storyboard */; };
 		B782915F25FA08CD009F4A11 /* parstagram_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B782915E25FA08CD009F4A11 /* parstagram_iosTests.swift */; };
 		B782916A25FA08CD009F4A11 /* parstagram_iosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B782916925FA08CD009F4A11 /* parstagram_iosUITests.swift */; };
+		B7900BAC2605702A00E108E3 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7900BAB2605702A00E108E3 /* CommentCell.swift */; };
 		B7975BC525FA0B12003F321F /* config.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7975BC425FA0B12003F321F /* config.swift */; };
 		B7975BCA25FA0D97003F321F /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7975BC925FA0D97003F321F /* LoginViewController.swift */; };
 		B7975BCF25FA0DA7003F321F /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7975BCE25FA0DA7003F321F /* FeedViewController.swift */; };
@@ -63,6 +64,7 @@
 		B782916525FA08CD009F4A11 /* parstagram-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "parstagram-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B782916925FA08CD009F4A11 /* parstagram_iosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parstagram_iosUITests.swift; sourceTree = "<group>"; };
 		B782916B25FA08CD009F4A11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7900BAB2605702A00E108E3 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		B7975BC425FA0B12003F321F /* config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = config.swift; sourceTree = "<group>"; };
 		B7975BC925FA0D97003F321F /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		B7975BCE25FA0DA7003F321F /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				B7975BCE25FA0DA7003F321F /* FeedViewController.swift */,
 				B7975BD625FA12ED003F321F /* CameraViewController.swift */,
 				B7975BFB25FA1901003F321F /* PostCell.swift */,
+				B7900BAB2605702A00E108E3 /* CommentCell.swift */,
 			);
 			path = "parstagram-ios";
 			sourceTree = "<group>";
@@ -425,6 +428,7 @@
 				B7975BCF25FA0DA7003F321F /* FeedViewController.swift in Sources */,
 				B782914A25FA08CC009F4A11 /* SceneDelegate.swift in Sources */,
 				B7975BD725FA12ED003F321F /* CameraViewController.swift in Sources */,
+				B7900BAC2605702A00E108E3 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
